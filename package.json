@@ -1,7 +1,7 @@
 {
   "name": "@conteman/utils",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "packageManager": "pnpm@7.29.3",
   "description": "",
   "author": "ConteMan <real.conteman@gmail.com>",
@@ -65,5 +65,9 @@
   },
   "lint-staged": {
     "*": "eslint --fix"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
