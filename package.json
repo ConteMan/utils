@@ -1,5 +1,5 @@
 {
-  "name": "@conteman/utils",
+  "name": "@realconteman/utils",
   "type": "module",
   "version": "0.0.3",
   "packageManager": "pnpm@7.29.3",
