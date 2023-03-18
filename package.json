@@ -1,7 +1,7 @@
 {
   "name": "@realconteman/utils",
   "type": "module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "packageManager": "pnpm@7.29.3",
   "description": "",
   "author": "ConteMan <real.conteman@gmail.com>",
