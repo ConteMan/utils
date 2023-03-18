@@ -6,12 +6,12 @@
   "description": "",
   "author": "ConteMan <real.conteman@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/conteman/pkg-name#readme",
+  "homepage": "https://github.com/conteman/utils#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/conteman/pkg-name.git"
+    "url": "git+https://github.com/conteman/utils.git"
   },
-  "bugs": "https://github.com/conteman/pkg-name/issues",
+  "bugs": "https://github.com/conteman/utils/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
